@@ -1,9 +1,9 @@
 <H3>EX. NO.3</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
-```
+
 ### NAME : Reklies J
 ### REGISTER NO : 212223110041
-```
+
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
 <H3>Theory:</H3>
